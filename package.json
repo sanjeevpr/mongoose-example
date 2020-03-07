@@ -1,0 +1,25 @@
+{
+    "name": "mongo-mongoose-examples",
+    "version": "0.0.1",
+    "description": "An example project for working with mongoose",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.12.4",
+        "body-parser": "^1.15.2",
+        "mongoose": "^5.1.6",
+        "mongodb": "^3.4.13"
+    },
+    "engines": {
+        "node": "4.4.5"
+    },
+    "keywords": [
+        "node",
+        "mongoose",
+        "express",
+        "mongo"
+    ],
+    "license": "MIT"
+}
